@@ -22,5 +22,5 @@ You will have to adjust the timeframe for which the events will be considered (d
 
 # IP to Host Mapping:
 
-to be documented...
+Switch to the "Host Management" overview and choose a CSV export with the data "Hostname" and "Local IP". The resulting CSV file can be ingested in Blauhaunt.
 
